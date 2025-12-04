@@ -27,14 +27,11 @@ public class TestCasesSecendPro {
 	String country="Jordan";
 	String address="Amman";
 	String []city={"Amman","Alzarqaa","Irbid","Aqaba","Ajloun","Jarsh","Alsalt"};
-	int ZipCode=1234;
 	String state="S";
-	String mobileNumber="0787427811";
-	
 	String email="@gmail.com";
 	
 	int numberForName=rand.nextInt(name.length);
-	int numberForEmail =rand.nextInt();
+	int numberForEmail =rand.nextInt(878989);
 	int password=rand.nextInt();
 
 	
